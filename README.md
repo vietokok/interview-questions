@@ -60,7 +60,7 @@
      }
      ```
 
-  ***III. Tính đa hình***
+  **3. Tính đa hình**
    
    - Đa hình là khái niệm mà hai hoặc nhiều lớp có những phương thức giống nhau 
    nhưng có thể thực thi theo những cách thức khác nhau.
@@ -103,7 +103,7 @@
      }
      ```
 
-***IV. Tính trừu tượng***
+**4. Tính trừu tượng**
  - Tính trừu tượng nghĩa là chọn ra các thuộc tính, phương thức của đối tượng cần 
  cho việc giải quyết bài toán đang lập trình.
  - Ví dụ: Bài toán quản lý sinh viên chúng ta chỉ cần quản lý các thông tin như:  
@@ -118,7 +118,7 @@
 	- Sở thích  
 	- Chiều cao 
  
-  ***V. Abstract và Interface***
+  ***III. Abstract và Interface***
 
   | Abstract | Interface | 
   | :-: |:-:| 
@@ -126,7 +126,7 @@
   | 1 `class` chỉ được bắt nguồn từ 1 `class` khác | 1 `class` có thể `implement` nhiều `interface` (đa kế thừa) |  
   | Có thể biểu thị các phần tử không `public` | Trong `interface` các `method` phải là `public` |   
 
-  ***VI. Overloading và Overriding ( nạp chồng phương thức và ghi đè phương thức )***  
+  ***IV. Overloading và Overriding ( nạp chồng phương thức và ghi đè phương thức )***  
    
   | Overloading | Overriding | 
   | :-: |:-:| 
@@ -166,7 +166,7 @@
      }
      ```
 
-  ***VII. Array và ArrayList***
+  ***V. Array và ArrayList***
   
   | Array | ArrayList |
   | :-: | :-: |
@@ -187,13 +187,13 @@
     list2 = Arrays.asList(item);
     ``` 
 
-  ***VIII. Set, Map và List***
+  ***VI. Set, Map và List***
    
    - `Set`: là một collection không thể chứa 2 giá trị trùng lặp. `Set` được sử dụng để biểu diễn các bộ, chẳng hạn như bộ tú lu khơ, thời khóa biểu của học sinh, các   tiến trình đang chạy trên máy tính...
    - `List`: là một collection có thứ tự (đôi khi còn được gọi là một chuỗi). `List` có thể chứa các phần tử trùng lặp. Thường có quyền kiểm soát chính xác vị trí các   phần tử được chèn vào và có thể truy cập chúng bằng chỉ số (vị trí của chúng).
    - `Map`: là một đối tượng ánh xạ mỗi `key` tương úng với một giá trị. `Map` không thể chứa giá trị trùng lặp. Mỗi `key` có thể ánh xạ đến nhiều nhất một giá trị.
 
-  ***IX. String, StringBuffer và StringBuilder***
+  ***VII. String, StringBuffer và StringBuilder***
    
   - `String` là không thể thay đổi (immutable)
   - `StringBuffer`, `StringBuilder` có thể thay đổi (mutable)
@@ -204,7 +204,7 @@
   | `StringBuffer` là đồng bộ (synchronized) tức là luồng an toàn. Điều này có nghĩa là không thể có 2 luồng cùng truy cập phương thức của lớp `StringBuffer` đồng thời | `StringBuilder` là không đồng bộ (non-synchronized) tức là luồng không an toàn. Điều này có nghĩa là có 2 luồng cùng truy cập phương thức của lớp `StringBuilder` đồng thời |  
   | `StringBuffer` không hiệu quả bằng `StringBuilder` | `StringBuilder` hiệu quả hơn `StringBuffer` |
 
-  ***X . this và super***
+  ***VIII. this và super***
 
   **1. this**
 
@@ -248,7 +248,7 @@
      }  
      ```
 
-  ***XI. static và final***
+  ***IX. static và final***
   
    **1. static**
 
