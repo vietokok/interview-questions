@@ -139,7 +139,7 @@
   | Ví dụ | Oracle, Postgres, and MS-SQL | MongoDB, Redis, Neo4j, Cassandra, Hbase |
   | Phù hợp cho | Đây là 1 lựa chọn lý tưởng cho môi trường truy vấn phức tạp | Không phù hợp với truy vấn phức tạp |
 
-  ***V. Having và Where***
+  ***VI. Having và Where***
 
   - HAVING
     - Là câu lệnh điều kiện trả kết quả đối chiếu cho nhóm (`Sum`,`AVG`,`COUNT`,…)
@@ -150,7 +150,7 @@
     - Sử dụng trước khi gộp nhóm diễn ra
     - `Where` không dùng được sau `GROUP BY`
   
-  ***V. char và varchar***
+  ***VII. char và varchar***
 
   - char:
     - Có độ dài cố định
