@@ -1,3 +1,22 @@
 ## Java Questions
 
-[Click here](https://stackjava.com/uncategorized/phong-van-vi-tri-lap-trinh-vien-java.html)
+- [Click here](https://stackjava.com/uncategorized/phong-van-vi-tri-lap-trinh-vien-java.html)
+- Lập trình hướng đối tượng là gì?
+- Các tính chất của lập trình hướng đối tượng ?
+- While và doWhile khác nhau như thế nào ?
+- Hỏi về cách hoạt động của các collection Framework như list , map , set , queue , stack.
+- Phân biệt ArrayList , Linkedlist và Vector.
+- Sự khác nhau giữa ArrayList và Array.
+- Sự khác nhau giữa Linkedlist với Arraylist.
+- Sự khác nhau của Set và List.
+- Sự khác nhau giữa override và overload.
+- Phân biệt các kiểu dữ liệu trong java. Khác nhau thế nào ?
+- Phân biệt sự khác nhau của các access modifier
+- Generic là gì? Cho ví dụ minh hoạ? Tại sao dùng Generic.
+- Sự khác nhau giữa abstract class và Interface.
+- Ngoại lệ (Exception là gì) ? Phân biệt check và uncheck exception.
+- Tham trị và tham chiếu là gì?
+- Bộ nhớ Heap và Stack.
+- Sự khác nhau giữa Object và Class là gì ?
+- Thuật toán tìm kiếm nhị phân.
+- Thuật toán săp xếp.
